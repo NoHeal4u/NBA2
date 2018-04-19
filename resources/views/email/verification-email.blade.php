@@ -1,0 +1,1 @@
+<p>Kliknite kako bi ste se verifikovali <a href="http://localhost:8000/verification/{{ $user->id }}"> KLIK</a></p>
